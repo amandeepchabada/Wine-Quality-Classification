@@ -1,0 +1,20 @@
+Dependencies to be installed to run the Project
+1) pandas
+2) matplotlib
+3) numpy
+4) seaborn
+5) scipy
+6) sklearn
+7) imblearn
+8) simple_colors
+
+Run below for installation (switch pip with pip3 based on version)
+
+pip install pandas
+pip install matplotlib
+pip install numpy
+pip install seaborn
+pip install scipy
+pip install sklearn
+pip install imblearn
+pip install simple_colors
